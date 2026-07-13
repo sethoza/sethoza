@@ -6,7 +6,6 @@ I spent time working with identity systems and sensitive data before moving into
 
 Security+ certified and building real depth in detection and response. I like clear thinking, clean work, and problems that force you to slow down and get it right.
 
-Open to L1 SOC opportunities.
 
 ## Current Focus
 
