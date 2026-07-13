@@ -16,5 +16,5 @@ Open to L1 SOC opportunities.
   
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/alvinespinoza)
-- [Entra ID & Active Directory Lab](https://github.com/sethoza/active-directory-lab)
+
 
