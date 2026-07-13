@@ -2,17 +2,18 @@
 
 Hi, I'm Alvin.
 
-Transitioning into cybersecurity operations. Background working with identity systems and sensitive data gave me a grounded understanding of how things break and what real defense looks like in practice.
+I spent time working with identity systems and sensitive data before moving into cybersecurity. That experience gave me a practical understanding of how things break and what good defense actually looks like.
 
-Security+ certified and building technical depth in detection and response. I approach problems with clarity and care — the kind that holds up when things get complicated.
+Security+ certified and building real depth in detection and response. I like clear thinking, clean work, and problems that force you to slow down and get it right.
 
 Open to L1 SOC opportunities.
 
-### Current Focus
-- Microsoft cloud security (AZ-900 → SC-900 → SC-200)
-- Identity & Access Management with Entra ID and Active Directory
-- Building documented labs mapped to NIST frameworks
+## Current Focus
 
+- Security Operations & Detection Engineering
+- Identity & Access Management (Entra ID + Active Directory)
+- Building practical skills in triage, detection, and incident response
+  
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/alvinespinoza)
 - [Entra ID & Active Directory Lab](https://github.com/sethoza/active-directory-lab)
