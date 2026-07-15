@@ -1,4 +1,4 @@
-**Securing systems, not just building them.**
+**Securing systems**
 
 Hi, I'm Alvin.
 
