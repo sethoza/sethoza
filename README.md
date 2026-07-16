@@ -14,6 +14,6 @@ Security+ certified and building real depth in detection and response. I like cl
 - Building practical skills in triage, detection, and incident response
   
 ### Links
-- [LinkedIn](https://www.linkedin.com/in/alvinespinoza)
+- [LinkedIn](https://www.linkedin.com/in/alvin77)
 
 
