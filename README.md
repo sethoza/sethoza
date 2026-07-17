@@ -2,7 +2,7 @@
 
 Hi, I'm Alvin.
 
-I spent time working with identity systems and sensitive data before moving into cybersecurity. That experience gave me basci understanding of how things break and how to defend it.
+I spent time working with identity systems and sensitive data before moving into cybersecurity. That experience gave me basic understanding of how things break and how to defend it.
 
 Security+ certified and building real depth in detection and response. I like clear thinking, clean work, and problems that force you to slow down and get it right.
 
