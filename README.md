@@ -1,6 +1,5 @@
-**Securing systems**
 
-Hi, I'm Alvin.
+Hi, I'm Al.
 
 I spent time working with identity systems and sensitive data before moving into cybersecurity. That experience gave me basic understanding of how things break and how to defend it.
 
