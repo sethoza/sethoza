@@ -3,7 +3,8 @@ Hi, I'm Al.
 
 I spent time working with identity systems and sensitive data before moving into cybersecurity. That experience gave me basic understanding of how things break and how to defend it.
 
-I like clear thinking, clean work, and problems that force you to slow down and get it right.
+I like clear thinking, clean work, and problems that force you to slow down and get it right. I also stay current on cybersecurity threats, vulnerabilities, and industry best practices to support continuous improvement across our environment in the cyberworld.
+
 
 
 ## Current Focus
