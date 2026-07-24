@@ -11,7 +11,7 @@ I stay current on cybersecurity threats, vulnerabilities, and industry best prac
 
 - Security Operations & Detection Engineering
 - Identity & Access Management (Entra ID + Active Directory)
-- Wazuh, Wireshark, Azure
+- Splunk, Wazuh, Wireshark, Azure
   
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/alvin77)
